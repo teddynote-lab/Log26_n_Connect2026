@@ -25,6 +25,10 @@
 |26.01.16.|Log26|Ben & Ella| AI 프로덕트 엔지니어의 실제 역할: AI 모델이 아니라, AI 제품을 만든다는 것 | [Link](./02.%20Log26/09_log26_Ben_Ella.pdf) |
 |26.01.16.|Log26|Hank| 평가(Evaluation): RAG 성능, 무엇을 어떻게 평가해야 하는가? | [Link](./02.%20Log26/10_log26_Hank.pdf) |
 
+### Deep Agent Builder
+
+[![Deep Agent Builder](https://img.youtube.com/vi/k1oK3tAeTEE/0.jpg)](https://youtu.be/k1oK3tAeTEE)
+
 ### Press
 - [HSAD, AI 컨퍼런스서 자연어 기반 '딥 에이전트 빌더' 선공개](https://www.news1.kr/industry/general-industry/6039593)
 - [HSAD, '딥 에이전트 빌더' 공개…"말만 하면 에이전트 생성"](https://www.etnews.com/20260115000074)
