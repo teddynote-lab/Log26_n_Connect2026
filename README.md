@@ -16,6 +16,7 @@
 |26.01.14.|Connect2026|Teddy| Connect Your Knowledge: 지식 기반 구축이 시급한 이유 | [Link](./01.%20Connect2026/06_Connect2026_Teddy.pdf) |
 |26.01.16.|Log26|Teddy| Opening: 2025년 기술 여정과 Log26의 의미 | [Link](./02.%20Log26/01_log26_Teddy.pdf) |
 |26.01.16.|Log26|Peter| Data Parsing: Document Structuring | [Link](./02.%20Log26/02_log26_Peter.pdf) |
+|26.01.16.|Log26|Stella| Intentrix: LLM 서비스 개발 과정에서 마주하는 모호함을 다루는 방법 |  |
 |26.01.16.|Log26|Jaehun| RAG 성능 고도화: 제조, 금융, Lifelog 분야 | [Link](./02.%20Log26/04_log26_Jaehun.pdf) |
 |26.01.16.|Log26|Sung| Long-term Memory MCP: 사내 솔루션 기반의 개인화된 장기 기억 메모리 MCP 개발 사례 | [Link](./02.%20Log26/05_log26_Sung.pdf) |
 |26.01.16.|Log26|Mason| 연구자 특화 Deep Research MCP | [Link](./02.%20Log26/06_log26_Mason.pdf) |
