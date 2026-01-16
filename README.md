@@ -20,10 +20,10 @@
 |26.01.16.|Log26|Jaehun| RAG 성능 고도화: 제조, 금융, Lifelog 분야 | [Link](./02.%20Log26/04_log26_Jaehun.pdf) |
 |26.01.16.|Log26|Sung| Long-term Memory MCP: 사내 솔루션 기반의 개인화된 장기 기억 메모리 MCP 개발 사례 | [Link](./02.%20Log26/05_log26_Sung.pdf) |
 |26.01.16.|Log26|Mason| 연구자 특화 Deep Research MCP | [Link](./02.%20Log26/06_log26_Mason.pdf) |
-|26.01.16.|Log26|Pangpang| ESG: 터지지 않게 만드는 AI 서비스 엔지니어링 생존 전략 |  |
-|26.01.16.|Log26|Hantaek| Deep Agents: AI Agent 업그레이드 레시피 |  |
-|26.01.16.|Log26|Ben & Ella| AI 프로덕트 엔지니어의 실제 역할: AI 모델이 아니라, AI 제품을 만든다는 것 |  |
-|26.01.16.|Log26|Hank| 평가(Evaluation): RAG 성능, 무엇을 어떻게 평가해야 하는가? |  |
+|26.01.16.|Log26|Pangpang| ESG: 터지지 않게 만드는 AI 서비스 엔지니어링 생존 전략 | [Link](./02.%20Log26/07_log26_PangPang.pdf) |
+|26.01.16.|Log26|Hantaek| Deep Agents: AI Agent 업그레이드 레시피 | [Link](./02.%20Log26/08_log26_Hantaek.pdf) |
+|26.01.16.|Log26|Ben & Ella| AI 프로덕트 엔지니어의 실제 역할: AI 모델이 아니라, AI 제품을 만든다는 것 | [Link](./02.%20Log26/09_log26_Ben_Ella.pdf) |
+|26.01.16.|Log26|Hank| 평가(Evaluation): RAG 성능, 무엇을 어떻게 평가해야 하는가? | [Link](./02.%20Log26/10_log26_Hank.pdf) |
 
 ### Press
 - [HSAD, AI 컨퍼런스서 자연어 기반 '딥 에이전트 빌더' 선공개](https://www.news1.kr/industry/general-industry/6039593)
